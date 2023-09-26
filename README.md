@@ -14,7 +14,7 @@ Databases: MySQL, Oracle
 
 Operating System: Linux, Windows, Android, Apple
 
-Cloud Service: AWS S3, Azure
+Cloud Service: AWS
 
 Networking: Cisco, TCP/IP
 
