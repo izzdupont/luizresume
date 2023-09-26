@@ -118,6 +118,26 @@ Maintain and ensure the accuracy and up-to-datedness of data in Active Directory
 Contributed to the successful migration from landline to the online phone system, leveraging cloud-based technology. Collaborated with the team to plan and execute a seamless transition, including research configuration, and integration. Provided comprehensive training and support to facilitate smooth adoption by end users.
 <br>
 
+**CERTIFICATION IN PROGRESS:**
+<br><BR>
+*Network+*
+<br>
+Issuing Institution: CompTIA
+<br>
+Expected Completion Date: December 2023
+<br>
+Relevant Courses: Networking, TCP/IP
+<br>
+
+*Cloud Practitioner CLF-C02*
+<br>
+Issuing Institution: AWS
+<br>
+Expected Completion Date: November 2023
+<br>
+Relevant Courses: AWS, EC2, S3, Clouding
+<br>
+
 **REFERENCE**
 
 Available Upon Request
