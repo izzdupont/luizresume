@@ -12,13 +12,15 @@ Web Development: PHP, HTML, CSS, JavaScript, API, React
 
 Databases: MySQL, Oracle
 
-Operating System: Linux, Windows, Android, Apple
+Operating System: Linux, Windows, Android, iOS
 
 Cloud Service: AWS
 
 Networking: Cisco, TCP/IP
 
 Scripting: Shell scripting 
+
+Other: POS System (NCR, Gibarco Passport, Verifone Commander)
 
 Systems Administration: AD
 <br>
@@ -101,7 +103,7 @@ Collaborated with the IT Manager and System Administrator to orchestrate the mig
 
 Assisted IT Managers in the deployment of retail tablets, ensuring adherence to standardized configurations and efficient deployment across all stores.
 
-*Titan Fuel Cloud System Installation*
+*Titan Fuel Cloud System Implementation*
 
 Deployed and troubleshoot the Titan Fuel cloud online system across multiple sites, ensuring smooth operation and resolving technical issues promptly.
 
